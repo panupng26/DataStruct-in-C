@@ -1,0 +1,4 @@
+ID	 Name	  Sex	Age
+1002	Sirinthorn-Che	 Female 	 28
+1008	Somsong-Souy	 Male 	 32
+Total = 2

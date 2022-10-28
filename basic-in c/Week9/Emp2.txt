@@ -1,0 +1,7 @@
+IT and Engineer
+E002 Engineer 23
+E005 IT 27
+E006 IT 33
+E007 Engineer 43
+E010 Engineer 37
+Average age = 32.60

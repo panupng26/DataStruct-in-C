@@ -1,0 +1,12 @@
+ | ID | Name | Salary  | Com  | Income 
+=======================================
+ | P009 | Cholticha Abakza | 13500.00 | 960.00 | 14460.00
+ | P007 | Pojjanee Chantharasutpawong | 13500.00 | 1800.00 | 15300.00
+ | P006 | Chutipan Sosmart | 13500.00 | 462.50 | 13962.50
+ | P001 | Saowanee Prettymakmak | 13500.00 | 952.00 | 14452.00
+ | E004 | Sirinthorn Cheyasak | 9500.00 | 2280.00 | 11780.00
+ | E003 | Soontorn Aksornchetchoo | 9500.00 | 425.00 | 9925.00
+ | E008 | Patty Narak | 9500.00 | 1908.00 | 11408.00
+=============================================
+Maximum commission = 2280 by Sirinthorn
+Maximum income = 15300 by Pojjanee

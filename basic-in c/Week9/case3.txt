@@ -1,0 +1,8 @@
+Subject List in First semester
+++++++++++++++++++++++++++++++
+CS310	3	B
+GE112	3	A
+MA112	3	C
+CH101	3	B
+CS100   3   A
+GE001   3   A

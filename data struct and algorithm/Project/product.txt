@@ -1,0 +1,8 @@
+101	orange-juice	30
+102	coke		20
+103	potatochips	25
+104	Mixed-Fruit	50
+105	alcohol		80
+106	water		10
+107	Iced-tea	25
+108 Iced-greebtea 25

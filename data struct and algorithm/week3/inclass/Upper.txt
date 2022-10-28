@@ -1,0 +1,8 @@
+The Educational Profile of Student in High GPA
+==============================================
+   ID               Name          Gender       GPA 	Check-in Date
+1410701448 Wanaporn.D        Female 3.65  25/5/2558
+1410702222 Supat.R           Male 3.55  15/2/2558
+1430702500 Nida.T            Female 3.68  15/1/2557
+1520700203 Sirinthorn.C        Female 3.31  22/1/2558
+Total = 4

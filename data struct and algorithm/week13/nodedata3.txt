@@ -1,0 +1,8 @@
+dog
+leg
+horse
+egg
+elf
+boy
+box
+zoo

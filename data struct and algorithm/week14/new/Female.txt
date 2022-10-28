@@ -1,0 +1,5 @@
+ID = 1007, Sex= F, Height=172, Weight=73
+ID = 1009, Sex= F, Height=168, Weight=60
+ID = 1010, Sex= F, Height=165, Weight=53
+ID = 1017, Sex= F, Height=170, Weight=55
+ID = 1032, Sex= F, Height=165, Weight=55

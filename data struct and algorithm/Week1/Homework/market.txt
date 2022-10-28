@@ -1,0 +1,4 @@
+ID	 Name	  Sex	Age
+1004	Suda-Sukdee	 Female 	 24
+1005	Manee-Deena	 Female 	 35
+Total = 2

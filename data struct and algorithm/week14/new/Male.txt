@@ -1,0 +1,3 @@
+ID = 1014, Sex= M, Height=178, Weight=75
+ID = 1016, Sex= M, Height=168, Weight=69
+ID = 1026, Sex= M, Height=168, Weight=48

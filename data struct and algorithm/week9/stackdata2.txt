@@ -1,0 +1,10 @@
+1001 Mr.one 	86
+1002 Mr.two		59
+1003 Mr.three   56
+1004 Mr.four    75
+1005 Mr.five    71
+1006 Mr.six     81
+1007 Mr.seven   69
+1008 Mr.eight   72
+1009 Mr.nine    74
+1010 Mr.ten     68

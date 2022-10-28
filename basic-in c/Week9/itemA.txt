@@ -1,0 +1,9 @@
+List of Item A
+============
+HL-100     Jumbo 485x475x870         1700  25  A
+ST-120     Jumbo parts bin           1500  70  A
+ST-2377    Hot Rolled Steel Coil      680  100  A
+AC-005     Hot Rolled Steel Plate    340  50  A
+CC-478     Medium Steel Sections     820  10  A
+-----
+Total list(s) = 5

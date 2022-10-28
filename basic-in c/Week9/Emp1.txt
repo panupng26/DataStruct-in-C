@@ -1,0 +1,7 @@
+Accounting and Marketing
+E001 Accounting 33
+E003 Marketing 35
+E004 Accounting 43
+E008 Marketing 22
+E009 Accounting 29
+Average age = 32.40

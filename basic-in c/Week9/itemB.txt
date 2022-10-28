@@ -1,0 +1,7 @@
+List of Item B
+============
+HB-210     Hand 5” 615x915x860       2700  100  B
+AF-026     Cold Rolled Steel Coil    700  65  B
+AF-230     Steel Wire Rod            800  40  B
+-----
+Total list(s) = 3

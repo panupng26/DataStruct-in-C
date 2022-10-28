@@ -1,0 +1,5 @@
+The Educational Profile of Student in Low GPA
+==============================================
+   ID               Name          Gender       GPA 	Check-in Date
+1550700163 Sirada.W          Female 2.75  25/5/2560
+Total = 1

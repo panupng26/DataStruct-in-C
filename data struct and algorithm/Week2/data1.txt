@@ -1,0 +1,10 @@
+CS-0001 kwanruean thanajitt 65-Moo-3-prabuthdabaht            Saraburi        15170    431566
+CS-0002 Apinya Kralurkij 10-Moo-8-prabuthdabaht               Saraburi        18120    201476
+CS-0003 Wipaporn kumpiranont 48 Moo 10 yangtone banmhao       Saraburi        18130    201424
+CS-0004 Wipawan Chankajhang 133/1 Moo 1 takae Maung           Lopburi         15000    486248
+CS-0005 Kritsada Kamsanha 77 Moo 5 Lhoomkhaw Kooksamrong      Lopburi         15120    441848
+CS-0006 Namthip kradee 88 Moo 4 takhoa paisaree               Nakhonsawan     60220    222788
+CS-0007 Kamala Mookdara 62 Moo 5 bangkoo taroong              Lopburi         15150    622239
+CS-0008 Kamala Polnikorn 67 Moo 4 bangkoo taroong             Lopburi         15150    622227
+CS-0009 Kamonla Meesati 55 takadee takadee                    Nakhonsawan     60140    261333
+CS-0010 Supaporn Jarkkapol 50 Moo 9 banpha kangkoi            Saraburi        18110    244580
